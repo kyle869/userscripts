@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fensi12/Grow-A-GardenV2/refs/heads/main/Dark-Script.lua"))()
